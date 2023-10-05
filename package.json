@@ -1,7 +1,7 @@
 {
   "name": "components-lib-sore",
   "private": false,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "main": "./dist/components-lib-sore.umd.cjs",
   "module": "./dist/components-lib-sore.js",
